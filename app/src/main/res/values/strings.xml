@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAXMdbDemo(A)</string>
+    <string name="detect_card_prompts">Please swipe/insert/tap card</string>
+    <string name="prompt_ic_card_input">The Card Is IC Card, Please Insert Card</string>
+    <string name="emv_processing">Emv Processing...</string>
+    <string name="welcome">Welcome...</string>
+    <string name="trans_success">Transaction Successfully</string>
+    <string name="please_remove_card">Please Remove Card</string>
+    <string name="detect_card_success">Detected Card</string>
+</resources>
